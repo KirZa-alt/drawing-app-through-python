@@ -24,8 +24,6 @@ Advanced shapes: circle, square, line
 
 Undo / redo options
 
-
-Made with ❤️ by Kiran Hamza
 Save & share designs easily
 
 Made with ❤️ by Kiran Hamza
